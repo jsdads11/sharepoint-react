@@ -1,6 +1,16 @@
 # sharepoint-react
 
-#### need older version of node (1) and Python // nvm use 10. // nom run build
+### Heft
+npm install -g @rushstack/heft
+
+Fixed! The development certificate has been successfully trusted. For SharePoint Framework projects, use gulp trust-dev-cert instead of heft trust-dev-cert.
+
+npm rebuild node-sass (x64 compatibility)
+
+gulp serve --nobrowser
+
+
+#### need older version of node (1) and Python // nvm use 10. // npm run build
 
 ````
 python2 --version 2>&1 || python2.7 --version 2>&1 || echo "Python 2 not found"
