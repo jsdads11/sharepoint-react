@@ -1,5 +1,7 @@
 # sharepoint-react
 
+run code from inside warp terminal
+
 ### Heft
 npm install -g @rushstack/heft
 
